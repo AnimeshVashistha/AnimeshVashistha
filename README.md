@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ⭐ Starring repo is required😅 <br />
 📫 How to reach me: Just drop a mail at anime.vash@gmail.com <br />
 
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimeshVashistha&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimeshVashistha&show_icons=true&theme=darcula)
 
 
 
