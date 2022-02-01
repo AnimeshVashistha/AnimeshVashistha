@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😎 Welcome to my Github profile.
+😎 Welcome to my Github profile.</b>
 💻 I'm an Android enthusiast and likes to code in Java and Kotlin
 ⭐ Starring repo is required😅
 📫 How to reach me: Just drop a mail at anime.vash@gmail.com
