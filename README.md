@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😎 Welcome to my Github profile.
+💻 I'm an Android enthusiast and likes to code in Java and Kotlin
+⭐ Starring repo is required😅
+📫 How to reach me: Just drop a mail at anime.vash@gmail.com
+
+[![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimeshVashistha)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
