@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 😎 Welcome to my Github profile.<br />
-💻 I'm an Android enthusiast and likes to code in Java and Kotlin
-⭐ Starring repo is required😅
-📫 How to reach me: Just drop a mail at anime.vash@gmail.com
+💻 I'm an Android enthusiast and likes to code in Java and Kotlin <br />
+⭐ Starring repo is required😅 <br />
+📫 How to reach me: Just drop a mail at anime.vash@gmail.com <br />
 
-[![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimeshVashistha)](https://github.com/anuraghazra/github-readme-stats)
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimeshVashistha&show_icons=true&theme=radical)
 
 
 
