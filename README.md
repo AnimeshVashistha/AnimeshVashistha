@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 
 😎 Welcome to my Github profile.<br />
+💬 Ask me about Tech - Java, DSA, Kotlin, Android, Testing.<br />
 💻 I'm an Android enthusiast and likes to code in Java and Kotlin <br />
 ⭐ Starring repo is required😅 <br />
-📫 How to reach me: Just drop a mail at anime.vash@gmail.com <br />
+📫 How to reach me: Just drop a mail at animeshvashisthaofficial@gmail.com or call me at +91-9871655201 <br />
+😄 Pronouns: He/Him <br />
 
 ![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimeshVashistha&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshVashistha&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/:user)
+
 
 
 
