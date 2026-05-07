@@ -1,10 +1,11 @@
 ### Hello 👋
 
 😎 Welcome to my Github profile.<br />
-> "Consistency and ownership build exceptional engineering."
+"Consistency and ownership build exceptional engineering."
+😄 Pronouns: He/Him <br />
 ⭐ Starring repo is required😅 <br />
 📫 How to reach me: Just drop a mail at anime.vash@gmail.com or call me at +91-9871655201 <br />
-😄 Pronouns: He/Him <br />
+
 
 💻 Backend & Mobile Engineer | 🤖 AI Engineer  
 ⚡ Java • Kotlin • Spring Boot • Android • AI  
