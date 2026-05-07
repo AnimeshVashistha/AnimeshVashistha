@@ -12,7 +12,9 @@
 🚀 Building scalable AI-powered applications  
 🔥 Hardworking • Ownership • Consistency • Quick Learner
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=animeshvashistha&theme=tokyonight)
+<p align="center">
+⚡ SYSTEM STATUS: ONLINE • AI MODULES ACTIVE • BUILDING THE FUTURE ⚡
+</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animeshvashistha&theme=tokyo-night)
 
