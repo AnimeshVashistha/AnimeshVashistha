@@ -12,7 +12,7 @@
 🚀 Building scalable AI-powered applications  
 🔥 Hardworking • Ownership • Consistency • Quick Learner
 
-<img src="https://github-readme-stats.vercel.app/api?username=animeshvashistha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF"/>
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=animeshvashistha&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animeshvashistha&theme=tokyo-night)
 
