@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 😎 Welcome to my Github profile.<br />
+> "Consistency and ownership build exceptional engineering."
 ⭐ Starring repo is required😅 <br />
 📫 How to reach me: Just drop a mail at anime.vash@gmail.com or call me at +91-9871655201 <br />
 😄 Pronouns: He/Him <br />
@@ -24,6 +25,8 @@ Here are some ideas to get you started:
 ⚡ Java • Kotlin • Spring Boot • Android • AI  
 🚀 Building scalable AI-powered applications  
 🔥 Hardworking • Ownership • Consistency • Quick Learner
+
+![](https://komarev.com/ghpvc/?username=animeshvashistha&color=blueviolet)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=animeshvashistha&theme=tokyonight)
 
