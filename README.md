@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🚀 Building scalable AI-powered applications  
 🔥 Hardworking • Ownership • Consistency • Quick Learner
 
-![Snake animation](https://github.com/animeshvashistha/animeshvashistha/blob/output/github-contribution-grid-snake.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=animeshvashistha&theme=tokyonight)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
